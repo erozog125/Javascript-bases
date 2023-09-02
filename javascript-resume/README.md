@@ -10,7 +10,7 @@
 ===========================================
 # 1. Características de Javascript:
   1. Lenguaje de programación interpretado: JavaScript es un lenguaje de programación interpretado, lo que significa que el código se ejecuta directamente sin necesidad de compilarlo previamente.
-
+  
   2. Orientado a objetos: JavaScript es un lenguaje orientado a objetos, lo que permite la creación de objetos y la programación basada en clases y prototipos.
 
   3. Tipado dinámico: JavaScript es un lenguaje de tipado dinámico, lo que significa que las variables pueden contener diferentes tipos de datos a lo largo del tiempo sin necesidad de declarar su tipo de antemano.
